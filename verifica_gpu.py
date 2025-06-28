@@ -1,3 +1,5 @@
+#Script utilizado para testar a detecção de GPU com o TensorFlow para treinamentos
+
 import tensorflow as tf
 
 print("TensorFlow versão:", tf.__version__)
